@@ -1,2 +1,2 @@
 # Tappy-Ball
-Tappy Ball clone
+Just a Tappy Ball clone using Unity.
